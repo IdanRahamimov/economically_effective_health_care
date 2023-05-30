@@ -1,2 +1,2 @@
-# economically_effective_health_care
+# economically effective health care
 .
