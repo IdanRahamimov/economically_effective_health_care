@@ -10,8 +10,8 @@ The aim of this project is to make health care decision-making easier by identif
 
 We will examine a variety of diseases and analyze the cost-effectiveness of treatments, considering factors such as:
 
-- The cost of treatment
+- Costs associated with treatments
 - The impact of the disease on a person's ability to work
-- The potential economic benefits of treatment
+- Long-term impacts on individuals who cannot access free treatments
 
 By the end of this project, we hope to provide actionable insights that can inform health care policy and contribute to more equitable, effective health care systems.
