@@ -15,3 +15,6 @@ We will examine a variety of diseases and analyze the cost-effectiveness of trea
 - Long-term impacts on individuals who cannot access free treatments
 
 By the end of this project, we hope to provide actionable insights that can inform health care policy and contribute to more equitable, effective health care systems.
+
+## Data Sources
+- [Israel Ministry of Health](https://www.gov.il/en/departments/ministry_of_health/govil-landing-page)
